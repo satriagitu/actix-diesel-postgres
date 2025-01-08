@@ -7,7 +7,7 @@ Run Diesel
 diesel migration run
 ```
 
-Run Application
+### How to Run Application
 ```
 cargo run
 ```
